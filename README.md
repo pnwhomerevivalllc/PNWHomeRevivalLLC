@@ -59,11 +59,11 @@ Follow us on social media:
 
 ---
 
-## License
-© 2025 PNW Home Revival LLC. All rights reserved.  
-This content is for informational purposes only and cannot be copied, modified, or distributed without permission.
+### Thank You for Supporting PNW Home Revival LLC!
+We’re proud to serve the Pacific Northwest with pride and dedication. Let us help you revive your home!
 
 ---
 
-### Thank You for Supporting PNW Home Revival LLC!
-We’re proud to serve the Pacific Northwest with pride and dedication. Let us help you revive your home!
+## License
+© 2025 PNW Home Revival LLC. All rights reserved.  
+This content is for informational purposes only and cannot be copied, modified, or distributed without permission.
