@@ -38,16 +38,6 @@ Stay tuned as we continue to grow and serve the Pacific Northwest community!
 
 ---
 
-## Technical Details
-This repository contains the static files for the PNW Home Revival LLC website, including:
-- `index.html`: The main structure of the website.
-- `style.css`: Custom styling for a responsive and professional design.
-- Assets (e.g., logos, images): Located in the `assets/` folder.
-
-This project is hosted using [GitHub Pages](https://pages.github.com/) for free, ensuring reliable and accessible service.
-
----
-
 ## Contact Us
 We’d love to hear from you! Reach out for a free estimate or more information:  
 - **Phone**: +1 (206) 503-3635
