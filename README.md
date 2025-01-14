@@ -16,6 +16,7 @@ We proudly serve the Pacific Northwest, including:
 - Seattle, WA
 - Tacoma, WA
 - Olympia, WA
+- Chehalis, WA
 - Surrounding communities
 
 ---
@@ -49,12 +50,12 @@ This project is hosted using [GitHub Pages](https://pages.github.com/) for free,
 
 ## Contact Us
 We’d love to hear from you! Reach out for a free estimate or more information:  
-- **Phone**: +1 (123) 456-7890  
+- **Phone**: +1 (206) 503-3635
 - **Email**: info@pnwhomerevival.com  
 
 Follow us on social media:  
 - **Facebook**: [PNW Home Revival LLC](#)  
-- **Instagram**: [@pnwhomerevival](#)
+- **Instagram**: [@pnw_home_revival_llc](#)
 
 ---
 
